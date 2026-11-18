@@ -1,2 +1,7 @@
-# cisco-packet-tracer-projects
-Hands-on networking projects built in Cisco Packet Tracer, with screenshots and notes on what I learned.
+# Cisco Packet Tracer Projects
+
+Hands-on networking projects I build in Cisco Packet Tracer, a free network simulator. Each project has screenshots and notes on what I built and learned.
+
+## Projects
+
+- [Project 1: My First Office Network](project1-first-office-network.md)
